@@ -18,6 +18,20 @@
 			"DLCCode": "None",
 			"SourceCultureName": "pl-PL",
 			"TargetCultureName": "pl"
+		},
+		{
+			"Id": "en",
+			"BookId": "None",
+			"Class": "Language",
+			"Categories": [],
+			"DisplayName": "English",
+			"TableName": "None",
+			"ThumbnailPath": "None",
+			"IsFirstCreated": 1,
+			"SuppressResourceCopyDialog": 0,
+			"DLCCode": "None",
+			"SourceCultureName": "en",
+			"TargetCultureName": "en"
 		}
 	]
 }
