@@ -1,0 +1,26 @@
+# Unreal / generated
+Intermediate/
+DerivedDataCache/
+Saved/
+Binaries/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editors / IDE
+.vscode/
+.idea/
+.vs/
+
+# Temp
+*.tmp
+*.temp
+
+# Python cache
+__pycache__/
+*.pyc
